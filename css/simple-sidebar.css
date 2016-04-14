@@ -53,17 +53,18 @@
 #myCarousel {
     z-index: 100;
     overflow: hidden;
-    height: 600px;
+    width: 100%;
+    height: auto;
 }
 
 .myCarousel .item {
-  position: center;
+  position: absolute;
   width: 100%;
   height: auto;
 }
 
 .sidebar-nav {
-    position: center;
+    position: absolute;
     top: 0;
     width: 250px;
     margin: 0;
