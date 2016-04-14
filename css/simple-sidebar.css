@@ -57,13 +57,13 @@
 }
 
 .myCarousel .item {
-  position: absolute;
+  position: center;
   width: 100%;
   height: auto;
 }
 
 .sidebar-nav {
-    position: absolute;
+    position: center;
     top: 0;
     width: 250px;
     margin: 0;
