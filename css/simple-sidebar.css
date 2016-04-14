@@ -53,8 +53,7 @@
 #myCarousel {
     z-index: 100;
     overflow: hidden;
-    width: 100%;
-    height: auto;
+    height: 600px;
 }
 
 .myCarousel .item {
